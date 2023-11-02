@@ -1,0 +1,17 @@
+
+#bisection method
+def func(x):
+    return (tipos tis f)
+
+while (b-a) > eps:
+    c = (a+b)/2.0
+    fc = func(c)
+    if fc == 0:
+        a=0
+        b=0         
+    if fc * fa > 0:     
+        a = c           
+        fa = fc
+    else:
+        b = c          
+        fc = fc
