@@ -1,7 +1,7 @@
 # Scientific-Computing
 Introduction to Scientific Computing A - Semester 1 of PHY - UCY
 
-Welcome to the repository for the "Introduction to Scientific Computing A" course offered during Semester 1 of the Physics (PHY) program at the University of Cyprus (NTUA). This repository serves as a resource hub for students enrolled in the course and anyone interested in python or scientific computing.
+Welcome to the repository for the "Introduction to Scientific Computing A" course offered during Semester 1 of the Physics (PHY) program at the University of Cyprus (UCY). This repository serves as a resource hub for students enrolled in the course and anyone interested in python or scientific computing.
 
 ## Course Overview
 
