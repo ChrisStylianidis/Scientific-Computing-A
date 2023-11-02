@@ -12,10 +12,10 @@ Welcome to the repository for the "Introduction to Scientific Computing A" cours
 
 ## Repository Contents
 
-- help
-- Homework 
-- LABs
-- matplot
+- /Homework 
+- /LABs
+- /help
+- /matplot
 
 ## Contact
 
