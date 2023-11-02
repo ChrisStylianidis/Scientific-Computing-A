@@ -45,7 +45,9 @@ ax.set_ylim([-1,1])
 an thes na tipwseis me akrivia dekadikwn:
 print('The integral using Euler Method and dx = %5.2f is %8.4f' % (deltax,EulerInt))
 print('The integral using Euler Method and dx = {0:5.2f} is {1:8.4f}'.format(deltax,EulerInt))
-afta kai alla polla sto: askisilegend.py
+afta kai alla polla sto:
+cd help
+askisilegend.py
 ~~~
 
 **Subplotting:**
