@@ -6,6 +6,7 @@ Welcome to the repository for the "Introduction to Scientific Computing A" cours
 ## Course Overview
 
 - **Course Name**: Introduction to Scientific Computing A 
+- **Course Code**: ΦΥΣ140 
 - **Semester**: 1
 - **Professor**: Φώτιος Πτωχός
 
